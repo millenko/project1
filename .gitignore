@@ -3,3 +3,4 @@ project_1
 requirements.in
 requirements-dev.in
 .DS_Store
+.ipynb_checkpoints
