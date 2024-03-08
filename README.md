@@ -1,4 +1,7 @@
-![logo_netflix_blue 7](https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940)
+<p align="center">
+  <img src="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" alt="netflix logo" width="400" height="200">
+</p>
+
 
 # Project 1 | Netflix
 
@@ -65,9 +68,7 @@ The biggest stepping stones:
 
 ### EDA methods
 Utilized Python libraries Seaborn and Matplotlib to explore and visually present the statistical findings.
-<br>
 
-#### Visualisation:
 - Created pie charts to illustrate the distribution between variables, and values within the variables.
 
 ## Conclusion
