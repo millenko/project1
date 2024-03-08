@@ -37,13 +37,13 @@ There were none. This analysis was purely descriptive and exploratory.
 
 
 ## Understanding the data
-I mostly used Pandas built-in functions such as describe, head, info, unique, to familiarize myself with the data.
+Mostly used Pandas built-in functions such as describe, head, info, unique, to familiarize myself with the data.
 <br>
 Though the dataset initially looked of promising size for a safe and easy analysis, it turned out to be overly simple.
 it was a promising number that the dataset is well-fulfilled, the dataset proved to be rather dirty.
 
 ### Formatting
-I used Pandas built-in functions to format the data, to reach clarity and needs of the analysis.<br>
+Mostly used Pandas built-in functions to format the data, to reach clarity and needs of the analysis.<br>
 The biggest stepping stones:
 1. monotonous datatype landscape - only 1 value was numerical,
 2. the most important columns had big gaps in terms of missing values,
@@ -64,7 +64,7 @@ The biggest stepping stones:
 - "description" : content-plot.
 
 ### EDA methods
-I utilized Python libraries Seaborn and Matplotlib to explore and visually present the statistical findings.
+Utilized Python libraries Seaborn and Matplotlib to explore and visually present the statistical findings.
 <br>
 
 #### Visualisation:
