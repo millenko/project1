@@ -1,4 +1,4 @@
-![logo_netflix_blue 7](https://images.app.goo.gl/ywZ2ZuzEmUqj3mgB6)
+![logo_netflix_blue 7](https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940)
 
 # Project 1 | Netflix
 
